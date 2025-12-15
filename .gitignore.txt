@@ -1,0 +1,14 @@
+# Ignore big assets
+*.mp4
+*.mov
+*.zip
+*.rar
+*.blend
+*.psd
+*.fbx
+*.glb
+*.exe
+
+# Ignore export/build folders
+/build
+/export
